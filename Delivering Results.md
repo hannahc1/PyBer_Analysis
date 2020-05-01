@@ -16,7 +16,7 @@ https://github.com/hannahc1/PyBer_Analysis/blob/master/PyBer.ipynb
 
 ![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Fig1.png)
 
-   The multiple-line graph below demonstrates the total fares per week for the Urban cities are 5x of that for the Rural cities and the total fares disparity is pretty constant week over week.
+   The multiple-line graph below demonstrates the total fares per week for the Urban cities are about 5 times as much for the Rural cities and the total fare disparity is pretty constant week over week.
 
 ![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
@@ -44,7 +44,7 @@ https://github.com/hannahc1/PyBer_Analysis/blob/master/PyBer.ipynb
 ### Additional Analysis 1
 
 * Description of Approach:
----
+-
 Number of rides per week for each city type.
 
 * Technical Steps
@@ -55,7 +55,7 @@ Number of rides per week for each city type.
 ### Additional Analysis 2
 
 * Description of Approach:
----
+-
 Average area for each city types (to approximate the length of the ride) and average fare per square mile for each city type.
 
 * Technical Steps
