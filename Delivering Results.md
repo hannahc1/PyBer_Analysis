@@ -44,7 +44,7 @@ https://github.com/hannahc1/PyBer_Analysis/blob/master/PyBer.ipynb
 ### Additional Analysis 1
 
 * Description of Approach:
--
+
 Number of rides per week for each city type.
 
 * Technical Steps
@@ -55,7 +55,7 @@ Number of rides per week for each city type.
 ### Additional Analysis 2
 
 * Description of Approach:
--
+
 Average area for each city types (to approximate the length of the ride) and average fare per square mile for each city type.
 
 * Technical Steps
