@@ -10,8 +10,9 @@ The ride data and city data have been merged to form a new DataFrame and each co
 https://github.com/hannahc1/PyBer_Analysis/blob/master/PyBer.ipynb
 
 ### Results
-![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Code1.PNG)
+![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Table1.PNG)
 The summary hightlights that Rural cities are in need of more drivers while the Urban cities seem to have excess number of drivers than the actual needs, hence bringing down the average fare per an Urban driver to 1/3 of an Rural driver.  The Rural cities may show significant growth in total fare when the size of the driver pool grows.  The summary indicates that the riders are used to and willing to pay $10 more per ride than the Urban riders.
+
 ![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Fig1.png)
 ![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Fig8.png)
 
@@ -26,8 +27,8 @@ When the ride data was merged with the city data, the total driver count for eac
 
 ### Technical Analyses Used
 The driver count was calculated by using the following code:
-![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Table1.PNG)
 
+![](https://github.com/hannahc1/PyBer_Analysis/blob/master/Analysis/Code1.PNG)
 The means of each city was first calculated then the cities were grouped by city types to calculate the sum of the means.  The results would be the same if the original city data was grouped by the city types and the sums were calculated.
 
 ## Recommendations and Next Steps
